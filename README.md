@@ -4,7 +4,7 @@ pixi.js、vue、TypeScript
 
 
 
-### Date:19-09-01
+### Date:19-09-01      
 ###      
 
 1.将之前已经写好的功能用ts实现
