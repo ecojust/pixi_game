@@ -1,5 +1,6 @@
 interface task {
-    run(list:tasklist): void
+    sprite:any,
+    run(list:tasklist,flag:boolean): void
 }
 
 interface tasklist{
